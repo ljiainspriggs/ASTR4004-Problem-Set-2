@@ -1,16 +1,32 @@
 
-author: LJ Iain Spriggs
+# **Working Log for ASTR4004 Assignment 2**
 
-Working log for ASTR4004 assignments.
+**Author: LJ Iain Spriggs**
 
-21.08.26 -- Write automated script for git handling.
+## 21.08.26 
 
-22.08.26 -- Work on Q2.
+- Write automated script for git handling.
 
-23.08.26 -- Complete Q2.
-            Work on Q3.
+## 22.08.26 
 
-01.09.26 -- Work on Q3.
+- Work on Q2.
 
-01.09.26 -- Complete Q3.
-            Work on Q4.
+## 23.08.26 
+
+- Complete Q2.
+- Work on Q3.
+
+## 01.09.26 
+
+- Work on Q3.
+
+## 02.09.26
+
+- Complete Q3.
+- Work on Q4.
+
+## 03.09.26 
+
+- Complete Q4.
+- Finalise GitHub.
+- Submit assignment.
