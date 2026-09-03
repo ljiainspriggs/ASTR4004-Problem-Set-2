@@ -3,6 +3,8 @@
 
 **Author: LJ Iain Spriggs**
 
+Read "ASTR4004 Problem Set 2.pdf" for full assignment write-up.
+
 ## 21.08.26 
 
 - Write automated script for git handling.
