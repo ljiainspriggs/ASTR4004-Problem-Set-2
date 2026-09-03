@@ -12,4 +12,5 @@ Working log for ASTR4004 assignments.
 
 01.09.26 -- Work on Q3.
 
-01.09.26 -- Work on Q3.
+01.09.26 -- Complete Q3.
+            Work on Q4.
